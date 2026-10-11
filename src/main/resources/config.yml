@@ -1,0 +1,9 @@
+# Wann wird die ganze Ader abgebaut?
+#   always    = immer
+#   sneak     = nur wenn man schleicht (Shift)
+#   no-sneak  = nur wenn man NICHT schleicht
+mode: always
+# Nur mit Spitzhacke
+require-pickaxe: true
+# Maximale Anzahl Erzbloecke pro Ader
+max-blocks: 64

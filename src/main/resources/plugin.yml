@@ -1,0 +1,9 @@
+name: VeinMiner
+version: 1.0.0
+main: de.louis.veinminer.VeinMiner
+api-version: "26.2"
+description: Erze einer zusammenhaengenden Ader lassen sich gemeinsam abbauen.
+permissions:
+  veinminer.use:
+    description: Erlaubt das gemeinsame Abbauen von Erzadern
+    default: true
